@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605415574 source:c:\users\yohan\desktop\coding\bmp\bmp14\ocr\main.cpp
+	<stdio.h>
+	<math.h>
+	<algorithm>
+
